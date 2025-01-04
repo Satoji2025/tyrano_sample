@@ -1,6 +1,6 @@
 *start
 
-[title name="走るか寝るかするメロス"]
+[title name="走るか寝るかするメロスa"]
 [hidemenubutton]
 [wait time=200]
 [freeimage layer="base"]
@@ -9,7 +9,7 @@
 
 メロスは激怒した。[l][r]
 
-必ず、かの邪智暴虐の王を除かねばならぬと決意した。[l][r]
+必ず、かの邪智暴虐の王を除かねばならぬと決意した。が、[l][r]
 
 (中略)[l][r]
 
